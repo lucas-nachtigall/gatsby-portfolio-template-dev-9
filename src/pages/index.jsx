@@ -18,7 +18,7 @@ import * as styles from '../styles/HomePage.module.css'
 const HomePage = () => {
   return (
     <main>
-      <title>Gatsby Portfolio</title>
+      <title>Gatsby Portfolio1</title>
 
       <NavBar />
       <Header />
